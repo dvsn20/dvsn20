@@ -1,10 +1,30 @@
-<h1 align="center">Hi 👋, I'm DEVSON</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![Hello](docs/hello.svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+#### :rocket: My Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+* GitHub Actions
+    * [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - Create a 3D GitHub Contribution Calendar.
+* VS Code extensions ([marketplace](https://marketplace.visualstudio.com/publishers/yoshi389111))
+    * [yoshi389111/vscode-md-table-rainbow](https://github.com/yoshi389111/vscode-md-table-rainbow) - Color each column of the markdown table.
+    * [yoshi389111/visible-whitespace](https://github.com/yoshi389111/visible-whitespace) - Make whitespace visible.
+* Command line tools
+    * [yoshi389111/pong-is-not-ping](https://github.com/yoshi389111/pong-is-not-ping) - POng is Not pinG
+    * [yoshi389111/power-hello](https://github.com/yoshi389111/power-hello) - Create SVG images of powerful keystrokes.
+    * [yoshi389111/git-turf](https://github.com/yoshi389111/git-turf) - Outputs ASCII art to the GitHub contribution graph.
+    * [yoshi389111/git-caesar](https://github.com/yoshi389111/git-caesar) - Encrypt/decrypt files passwordlessly using GitHub's public key.
+    * [yoshi389111/SimpleHttpServer.cs](https://github.com/yoshi389111/SimpleHttpServer.cs) - Simple HTTP-Server for Windows.
+* Tech blog: [dev.to](https://dev.to/yoshi389111)
 
+#### :japan: My Projects (Japanease only)
+
+* [yoshi389111/kinokobooks](https://github.com/yoshi389111/kinokobooks) - 「きのこ本」を勝手に電子書籍化
+* [yoshi389111/dq1pswd](https://github.com/yoshi389111/dq1pswd) - ふっかつのじゅもんを作れます。１の方です。
+* [yoshi389111/dq2pswd](https://github.com/yoshi389111/dq2pswd) - ふっかつのじゅもんを作れます。２の方です。
+* [yoshi389111/dq-microbar](https://github.com/yoshi389111/dq-microbar) - DQ風のステッカーが作れます。バナーというかバッジというか。
+* Tech blog: [Qiita](https://qiita.com/yoshi389111) / [Zenn](https://zenn.dev/yoshi389111)
+
+#### :memo: Misc
+
+* [my LGTM collections](https://yoshi389111.github.io/LGTM/lgtm.html)
+
+![](./profile-3d-contrib/profile-green-dual.svg)
